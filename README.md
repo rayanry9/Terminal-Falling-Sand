@@ -12,4 +12,5 @@ Run the following command after cloning the repository and changing the director
 
 The executable will be build in `build/` folder within the project.
 
-![image](https://github.com/user-attachments/assets/2f5eb195-33f5-437d-8dce-f73050058410)
+![image](https://github.com/user-attachments/assets/fc704631-8f48-44c8-b40f-44d6bd0b2249)
+
