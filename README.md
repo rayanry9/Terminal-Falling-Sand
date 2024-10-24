@@ -11,3 +11,5 @@ make
 Run the following command after cloning the repository and changing the directory to it.
 
 The executable will be build in `build/` folder within the project.
+
+![image](https://github.com/user-attachments/assets/2f5eb195-33f5-437d-8dce-f73050058410)
